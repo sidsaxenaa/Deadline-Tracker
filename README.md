@@ -26,7 +26,7 @@ deadline-tracker/
  
 🛠️ Local Setup & Installation
 1. Clone the Repository
-git clone https://github.com/sidsaxenaa/deadline-tracker.git
+git clone git clone https://github.com/sidsaxenaa/Deadline-Tracker.git
 cd deadline-tracker
 
 2. Create & Activate Virtual Environment
